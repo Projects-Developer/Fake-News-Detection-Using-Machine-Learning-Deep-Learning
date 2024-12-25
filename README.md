@@ -3,6 +3,8 @@ Fake News Detection Using Machine Learning & Deep Learning Code, Document And Vi
 
 ## Youtube link: https://youtu.be/DQRZHOpU9bU?si=MPx__b0t4_V_7nlc
 
+![FAKE NEWS](https://github.com/user-attachments/assets/4c925e9b-8103-4c16-b7c1-903f0da63c9d)
+
 ## Abstract:
 This project proposes a machine learning and deep learning-based approach for detecting fake news. A robust fake news detection system is developed using natural language processing (NLP) techniques and trained on a large dataset of labeled news articles. The system evaluates the performance of machine learning models such as logistic regression, decision trees, and random forests, as well as deep learning models including convolutional neural networks (CNNs) and recurrent neural networks (RNNs). Experimental results demonstrate the effectiveness of the proposed approach in accurately classifying news articles as fake or real, with potential applications in mitigating the spread of misinformation.
 
