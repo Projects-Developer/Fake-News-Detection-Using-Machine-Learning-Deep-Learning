@@ -1,4 +1,4 @@
-# Fake-News-Detection-Using-Machine-Learning-Deep-Learning-
+# Fake-News-Detection-Using-Machine-Learning-Deep-Learning
 Fake News Detection Using Machine Learning & Deep Learning Code, Document And Video Tutorial
 
 ## Youtube link: https://youtu.be/DQRZHOpU9bU?si=MPx__b0t4_V_7nlc
